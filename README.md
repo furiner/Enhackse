@@ -1,6 +1,6 @@
 ## Enhackse
 
-A small little cheat GUI made for a [small and simple game](https://github.com/vicplusplus/Enhance) published by [a friend of mine](https://github.com/vicplusplus).
+A small little cheat GUI created out of spite, made for a [small and simple game](https://github.com/vicplusplus/Enhance) published by [a friend of mine](https://github.com/vicplusplus).
 
 ### But Why?
 
